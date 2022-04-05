@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = stephenmcg15@gmail.com
+	name = Stephen McGowan
